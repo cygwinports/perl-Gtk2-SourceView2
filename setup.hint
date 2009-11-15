@@ -1,0 +1,4 @@
+category: Perl Gnome
+requires: libgcc1 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libgtksourceview2.0_0 perl perl-Glib perl-Gtk2
+sdesc: "Perl GtkSourceView 2.x bindings"
+ldesc: "Perl bindings for version 2.x of the GtkSourceView library"
