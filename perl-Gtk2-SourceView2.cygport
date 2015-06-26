@@ -3,7 +3,7 @@ inherit gtk2-perl
 
 NAME="perl-Gtk2-SourceView2"
 VERSION=0.10
-RELEASE=2
+RELEASE=3
 CATEGORY="Perl"
 SUMMARY="Perl GtkSourceView 2.x bindings"
 DESCRIPTION="Perl bindings for version 2.x of the GtkSourceView library"
